@@ -25,15 +25,9 @@ This repository contains a data analytics and web-based visualization dashboard 
 
 ---
 
-## 🧩 Features & Dashboard Structure
 
-The multi-page or structured sidebar navigation breaks the analysis down into core sections:
 
-1. **📋 Dataset Preview:** An interactive data explorer tracking essential unique keys such as `product_id`, `product_name`, and product `category`. 
-2. **📉 Price & Discount Analysis:** Comprehensive evaluation of how manufacturers or merchants position prices against applied discount ratios.
-3. **⭐ Ratings & Reviews:** Granular review scoring patterns to isolate high-performing inventory lines.
 
----
 
 
    streamlit run app.py
